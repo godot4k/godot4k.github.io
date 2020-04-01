@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/04/01/hello-world/"/>
-      <url>/2020/04/01/hello-world/</url>
+      <title>第一份文档</title>
+      <link href="/2020/04/01/%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%96%87%E6%A1%A3/"/>
+      <url>/2020/04/01/%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%96%87%E6%A1%A3/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h1 id="搭建的动机"><a href="#搭建的动机" class="headerlink" title="搭建的动机"></a>搭建的动机</h1><p>个人博客这个东西，最早见到的是副系主任<a href="https://xiangsun.org" target="_blank" rel="noopener">xiang sun</a> 搭建，到昨天晚上看到<a href="https://liicanmt.github.io" target="_blank" rel="noopener">阿蛋</a>搭了一个，自己也随跟风做一个。</p><h1 id="搭建历程"><a href="#搭建历程" class="headerlink" title="搭建历程"></a>搭建历程</h1><p>一开始是直接<code>git clone</code>了几个成熟博客，但几经处理并不理想，便使用了<code>hexo+yeele</code>，算是比较ok， 除了<code>mailto</code>部分有点点小问题，其他都还不错。</p><h1 id="博客未来"><a href="#博客未来" class="headerlink" title="博客未来"></a>博客未来</h1><p>大致在未来会放一些数据科学(data science)的学习笔记，以及可能会有少部分社评？</p>]]></content>
       
       
+      <categories>
+          
+          <category> 杂记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
       
     </entry>
     
