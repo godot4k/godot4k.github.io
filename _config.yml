@@ -94,6 +94,10 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: yelee # next
 
+search:
+  path: search.xml
+  field: all
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
