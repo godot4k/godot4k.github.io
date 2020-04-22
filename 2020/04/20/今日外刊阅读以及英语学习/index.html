@@ -478,24 +478,27 @@
 
 
     
-      <div class="duoshuo" id="comments">
-    <div id="comment-box" ></div>
-    <div class="ds-thread" id="ds-thread" data-thread-key="2020/04/20/今日外刊阅读以及英语学习/" data-title="你的焦虑，真的能够听Chill解决吗？" data-url="http://wankaiwei.cn/2020/04/20/%E4%BB%8A%E6%97%A5%E5%A4%96%E5%88%8A%E9%98%85%E8%AF%BB%E4%BB%A5%E5%8F%8A%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/"></div>
+        <section id="comments">
+    <style> aside.comment-bar { margin: auto 30px; }</style>
+    <div id="disqus_thread"></div>
     <script>
-        var duoshuoQuery = {short_name:""};
+        var disqus_config = function(){
+            this.page.url = 'http://wankaiwei.cn/2020/04/20/%E4%BB%8A%E6%97%A5%E5%A4%96%E5%88%8A%E9%98%85%E8%AF%BB%E4%BB%A5%E5%8F%8A%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/';
+            this.page.identifier = '2020/04/20/今日外刊阅读以及英语学习/';
+        };
         var loadComment = function(){
             var d = document, s = d.createElement('script');
-            s.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-            s.async = true; s.charset = 'UTF-8';
+            s.src = '//godot4k-github-io.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
         }
-
-        
     </script>
     
     <script> loadComment(); </script>
 
-</div>
+</section>
+
+
     
 
 
